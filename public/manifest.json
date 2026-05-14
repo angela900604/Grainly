@@ -1,0 +1,9 @@
+{
+  "name": "Grainly",
+  "short_name": "Grainly",
+  "description": "膠卷記憶 × 共享時光",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EBE2D6",
+  "theme_color": "#4A3227"
+}
